@@ -22,7 +22,7 @@ This is a Node.js and MongoDB-based REST API for managing user transactions. The
 ### Installation Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/transaction-management-api.git
+    git clone [https://github.com/your-username/transaction-management-api.git](https://github.com/Sandeep-1405/Personal-Expense-Tracker.git)
     cd transaction-management-api
     ```
 

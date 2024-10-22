@@ -201,10 +201,6 @@ To manually test the API, you can use Postman or any other API client. See the A
      }
      ```
 
----
-
-### Summary
-
 #### 8. **Get Transaction Summary**
    - **Endpoint**: `GET /summary`
    - **Description**: Get a summary of total income and expenses for the authenticated user.

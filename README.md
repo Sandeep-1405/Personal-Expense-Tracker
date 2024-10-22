@@ -23,7 +23,7 @@ This is a Node.js and MongoDB-based REST API for managing user transactions. The
 1. Clone the repository:
     ```bash
     git clone https://github.com/Sandeep-1405/Personal-Expense-Tracker.git
-    cd transaction-management-api
+    cd Personal-Expense-Tracker
     ```
 
 2. Install the dependencies:
